@@ -21,3 +21,4 @@ class GraphDrawer:
 
     def finish_draw(self):
         plt.show()
+        
